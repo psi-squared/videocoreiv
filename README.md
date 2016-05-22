@@ -1,3 +1,10 @@
+### Note
+
+This is a fork of Herman Hermitage's VideoCore repository. The original repository is at https://github.com/hermanhermitage/videocoreiv .
+Go there for the up-to-date information; this fork is just a staging area for contributions to the main repository's wiki.
+
+### Original README
+
 <pre>
 Disclaimer:
 
